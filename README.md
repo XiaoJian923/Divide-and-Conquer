@@ -7,12 +7,6 @@ The experimental code in this paper is based on the code from two papers, [STG-N
 
 We replicated these two papers on different datasets and attempted the divide-and-conquer approach. The results are as follows:
 
-                              | UCSD Ped2 | CUHK Avenue |  ShanghaiTech  |  UBnormal  |  storage  |
-|:---------------------------:|:---------------:|:---------------:|:--------------:|:------------:|:---------:|
-|           STG-NF            |       27660     |       31925     |       0.5      |       7      |     20G   |
-|           Jigsaw            |       96000     |       79988     |       0.8      |       7      |     58G   |
-|  STG-NF + Jigsaw(w/o human) |      145766     |      130361     |       0.8      |       9      |    119G   |
-|  STG-NF + Jigsaw(w human)   | ** | ** | 0.8 | 7 | 291G |
-
-
 ![plot](./img.jpg)
+
+

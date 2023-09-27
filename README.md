@@ -9,4 +9,8 @@ We replicated these two papers on different datasets and attempted the divide-an
 
 ![plot](./img.jpg)
 
+We achieved the highest AUC score on the ShanghaiTech dataset, as of August 20, 2023. Please refer to the [Paper with Code](https://paperswithcode.com/sota/anomaly-detection-on-shanghaitech) for more details.
+
+![plot](./chart.png)
+
 # **As you can see, our results reported a negative outcome, aligning with the spirit of open science.**
